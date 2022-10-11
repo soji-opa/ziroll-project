@@ -35,7 +35,7 @@ This is a solution to the [React section 1 solo project](https://scrimba.com/lea
 
 ### What I learned
 
-On this particular challenge, I was intentional about HTML semantics and my use of margins paddings, height, & width as regards expanding my understanding of box model.
+On this particular challenge, I was intentional about HTML semantics and my use of margins paddings, height, & width as regards to expanding my understanding of box model.
 
 ### Useful resources
 
